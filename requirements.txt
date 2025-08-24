@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+llama-index
+llama-index-llms-openai
+sentence-transformers
+faiss-cpu
+requests
+beautifulsoup4
