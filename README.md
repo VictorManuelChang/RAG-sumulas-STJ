@@ -1,5 +1,5 @@
 
-# Analisador Jurídico de Ementas com RAG (Versão Aprimorada)
+# Analisador Jurídico de Ementas com RAG 
 
 ## 1\. Visão Geral
 
